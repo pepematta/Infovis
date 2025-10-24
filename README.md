@@ -28,6 +28,8 @@ El resultado se visualiza en un mapa mundial interactivo, donde:
 
 ## ⚙️ Instalación
 
+Para interactuar con la visualización, basta con descargar y abrir en el navegador el archivo mapa_valence_preview.html (subido). El proceso para generar dicho documento es el siguiente:
+
 1. Clona este repositorio o copia el archivo `main.py` en una carpeta.
 
 2. En la misma carpeta, guarda el dataset con el nombre universal_top_spotify_songs.csv, obteniéndolo del siguiente link (era muy pesado para subirlo a github):
