@@ -28,10 +28,13 @@ El resultado se visualiza en un mapa mundial interactivo, donde:
 
 ## ⚙️ Instalación
 
-1. Clona este repositorio o copia el archivo `main.py` y el dataset de Spotify (`universal_top_spotify_songs.csv`) en la misma carpeta.
+1. Clona este repositorio o copia el archivo `main.py` en una carpeta.
 
-2. Instala las dependencias: pandas plotly country_converter requests re
+2. En la misma carpeta, guarda el dataset con el nombre universal_top_spotify_songs.csv, obteniéndolo del siguiente link (era muy pesado para subirlo a github):
+https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
 
-3. Ejecuta el script: main.py
+4. Instala las dependencias: pandas plotly country_converter requests re
 
-4. Se generará el archivo mapa_valence_preview.html, que debes abrir en el navegador.
+5. Ejecuta el script: main.py
+
+6. Se generará el archivo mapa_valence_preview.html, que debes abrir en el navegador.
